@@ -1,25 +1,46 @@
-# Projetos Web com Javascript, CSS e HTML
+# 🚀 Web Development Projects
 
-Bem-vindo ao repositório de projetos web! Aqui você encontrará uma coleção diversificada de projetos desenvolvidos com Javascript, CSS e HTML para aprimorar suas habilidades front-end.
+Welcome to my repository where I showcase my web development projects using HTML5, CSS3, and JavaScript! This repository contains a collection of projects that demonstrate my skills in front-end web technologies.
 
-## 🚀 Projetos Disponíveis
+## Table of Contents
 
-### 1. Projeto X
-Breve descrição ou funcionalidade principal. Inclua capturas de tela ou GIFs animados.
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-[Visualizar Projeto X](link-para-o-projeto-x) | [Código-fonte](link-para-o-codigo-x)
+## Introduction
 
-### 2. Projeto Y
-Breve descrição ou funcionalidade principal. Mostre visualmente o que o projeto faz.
+This repository serves as a portfolio of my web development projects. Each project focuses on utilizing HTML5, CSS3, and JavaScript to create interactive and visually appealing web applications, websites, or components.
 
-[Visualizar Projeto Y](link-para-o-projeto-y) | [Código-fonte](link-para-o-codigo-y)
+## 🌟 Projects
 
-## 🛠️ Como Contribuir
+Here are some of the projects available in this repository:
 
-- **Forquilha (Fork):** Faça um fork do repositório.
-- **Clonar (Clone):** Clone o repositório para sua máquina local.
-  
-  ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+### 1. [Daniel's Tech College Website](Daniel's Tech College)
 
-Sinta-se à vontade para explorar, contribuir ou sugerir melhorias! 🌟
+This directory contains an example of a table-based layout for a fictional tech college homepage created using HTML.
+
+
+### 2. [Marina Ruy Barbosa Model Website](Marina Ruy Barbosa Model)
+
+This project is a static website built using HTML and CSS. It showcases information about Marina Ruy Barbosa, her biography, and related content.
+
+
+## Usage
+
+Each project has its own directory and instructions on how to use or run them. Please refer to the individual project's README file for specific usage details.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to any project:
+- Fork the repository
+- Make changes
+- Submit a pull request
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
