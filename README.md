@@ -46,5 +46,5 @@ For major changes, please open an issue first to discuss what you would like to 
 This repository is licensed under the [MIT License](LICENSE).
 
 
-[def1]: #Daniel's-Tech-College
-[def2]: Marina-Ruy-Barbosa-Model
+[def1]: Daniel's Tech College
+[def2]: Marina Ruy Barbosa Model
