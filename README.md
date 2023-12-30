@@ -2,7 +2,7 @@
 
 Welcome to my repository where I showcase my web development projects using HTML5, CSS3, and JavaScript! This repository contains a collection of projects that demonstrate my skills in front-end web technologies.
 
-## Table of Contents
+## 📜 Table of Contents
 
 - [Introduction](#introduction)
 - [Projects](#projects)
@@ -10,7 +10,7 @@ Welcome to my repository where I showcase my web development projects using HTML
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## 🎯 Introduction
 
 This repository serves as a portfolio of my web development projects. Each project focuses on utilizing HTML5, CSS3, and JavaScript to create interactive and visually appealing web applications, websites, or components.
 
@@ -18,21 +18,20 @@ This repository serves as a portfolio of my web development projects. Each proje
 
 Here are some of the projects available in this repository:
 
-### -[Marina Ruy Barbosa Model Website](Marina-Ruy-Barbosa-Model)
-
+### ✅ [Marina Ruy Barbosa Model Website](Marina-Ruy-Barbosa-Model)
 This project is a static website built using HTML and CSS. It showcases information about Marina Ruy Barbosa, her biography, and related content.
 
 
-### -[Daniel's Tech College Website](Daniel's-Tech-College)
+### ✅ [Daniel's Tech College Website](Daniel's-Tech-College)
 
 This directory contains an example of a table-based layout for a fictional tech college homepage created using HTML.
 
 
-## Usage
+## ✨ Usage
 
 Each project has its own directory and instructions on how to use or run them. Please refer to the individual project's README file for specific usage details.
 
-## Contributing
+## 👍 Contributing
 
 Contributions are welcome! If you'd like to contribute to any project:
 - Fork the repository
@@ -41,6 +40,6 @@ Contributions are welcome! If you'd like to contribute to any project:
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## :page_with_curl: License
 
 This repository is licensed under the [MIT License](LICENSE).
