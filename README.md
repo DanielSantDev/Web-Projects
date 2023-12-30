@@ -18,12 +18,12 @@ This repository serves as a portfolio of my web development projects. Each proje
 
 Here are some of the projects available in this repository:
 
-### 1. [Daniel's Tech College Website][def1]
+### 1. [Daniel's Tech College Website][Daniel's Tech College]
 
 This directory contains an example of a table-based layout for a fictional tech college homepage created using HTML.
 
 
-### 2. [Marina Ruy Barbosa Model Website][def2]
+### 2. [Marina Ruy Barbosa Model Website][Marina Ruy Barbosa Model]
 
 This project is a static website built using HTML and CSS. It showcases information about Marina Ruy Barbosa, her biography, and related content.
 
@@ -44,7 +44,3 @@ For major changes, please open an issue first to discuss what you would like to 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
-
-[def1]: Daniel's Tech College
-[def2]: Marina Ruy Barbosa Model
