@@ -18,7 +18,7 @@ This repository serves as a portfolio of my web development projects. Each proje
 
 Here are some of the projects available in this repository:
 
-### 1. [Daniel's Tech College Website][Daniel's Tech College]
+### 1. [Daniel's Tech College Website][#daniels-tech-college]
 
 This directory contains an example of a table-based layout for a fictional tech college homepage created using HTML.
 
