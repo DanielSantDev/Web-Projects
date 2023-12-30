@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background: #6fbcaa;
+}
+
+#header {
+    background-color: #259b9b;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo, #menu{
+    padding: 10px;
+}
+
+#principal{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#content {
+    width: 660px;
+    float: left;
+}
+
+#right-side {
+    width: 240px;
+    float: right;
+}
+
+.post {
+    padding: 20px;
+    margin-bottom: 20px;
+    background:#b8d6b0;
+}
+
+#footer {
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #259b9b;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: #259b9b;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#header a:link,#header a:visited {
+    color: white;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+#header a:hover {
+    color: #259b9b;
+    background: white;
+}
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #259b9b;
+}
+
+h3 {
+    color:#259b9b;
+    background: #feedbf;
+    padding: 5px;
+}
+
+.white {
+    color: white;
+}
+
+.post-date{
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.right-content {
+    background: #b8d6b0;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.right-text {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #feedbf;
+}
