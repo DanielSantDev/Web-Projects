@@ -40,6 +40,6 @@ Contributions are welcome! If you'd like to contribute to any project:
 
 For major changes, please open an issue first to discuss what you would like to change.
 
-## :page_with_curl: License
+## 📃 License
 
 This repository is licensed under the [MIT License](LICENSE).
