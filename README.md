@@ -29,7 +29,8 @@ This directory contains an example of a table-based layout for a fictional tech 
 
 ## ✨ Usage
 
-Each project has its own directory and instructions on how to use or run them. Please refer to the individual project's README file for specific usage details.
+You can explore these projects by visiting the [GitHub Pages](https://danielsantdev.github.io/Projetos-Web/) associated with this repository. Simply click the link to access the live demonstration of these projects.
+Please refer to the individual project's README.md file for specific usage details.
 
 ## 👍 Contributing
 
