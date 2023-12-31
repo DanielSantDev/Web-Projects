@@ -19,7 +19,7 @@ This repository serves as a portfolio of my web development projects. Each proje
 Here are some of the projects available in this repository:
 
 ### ✅ [Tech Blog Website](Tech-Blog)
-This directory contains a basic HTML file that showcases a simple tech blog layout with associated CSS styles.
+This directory houses a collection of HTML files, each representing a blog post in a fictional tech blog, along with associated CSS styles. Each HTML file showcases a different topic in the tech world.
 
 ### ✅ [Marina Ruy Barbosa Model Website](Marina-Ruy-Barbosa-Model)
 This project is a static website built using HTML and CSS. It showcases information about Marina Ruy Barbosa, her biography, and related content.
