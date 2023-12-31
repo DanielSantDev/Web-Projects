@@ -6,7 +6,7 @@ Welcome to my repository where I showcase my web development projects using HTML
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Usage](#usage)
+- [Demonstration](#demonstration)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -27,10 +27,9 @@ This project is a static website built using HTML and CSS. It showcases informat
 ### ✅ [Daniel's Tech College Website](Daniel's-Tech-College)
 This directory contains an example of a table-based layout for a fictional tech college homepage created using HTML.
 
-## ✨ Usage
+## ✨ Demonstration
 
-You can explore these projects by visiting the [GitHub Pages](https://danielsantdev.github.io/Projetos-Web/) associated with this repository. Simply click the link to access the live demonstration of these projects.
-Please refer to the individual project's README.md file for specific usage details.
+You can explore these projects by visiting the [GitHub Pages](https://danielsantdev.github.io/Projetos-Web/) associated with this repository. Simply click the link to access the live demonstration of these projects. Please refer to the individual project's README.md file for specific usage details.
 
 ## 👍 Contributing
 
