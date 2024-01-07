@@ -1,41 +1,64 @@
-# ONN - Online News
+# 📰 Online News Network (ONN)
 
-This project represents the structure and layout of an online news portal. The HTML code comprises sections for different news categories, latest articles, interviews, and newsletter signup.
+Welcome to the Online News Network (ONN) project, showcasing a responsive and stylish news website created using HTML and CSS.
 
-## Navigation
+## Table of Contents
 
-- `index.html`: Home page
-- `brasil.html`: Brazil news section
-- `internacional.html`: International news section
-- `economia.html`: Economy news section
-- `saude.html`: Health news section
-- `ciencia.html`: Science news section
-- `fotos.html`: Photos section
+- [About the Project](#about-the-project)
+- [File Structure](#file-structure)
+- [Usage Instructions](#usage-instructions)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Structure
+## About the Project
 
-- **Header Section**: Contains the logo and navigation links to different news categories.
-- **Main Content (Primário)**:
-  - **Featured News (Destaque)**: Displays the main highlighted news article.
-  - **World News (Mundo)**: Exhibits a list of news articles related to global topics.
-- **Secondary Content (Secundario)**:
-  - **Latest Interview (Última entrevista)**: Showcases the most recent interview article.
-  - **Recent News (Notícias recentes)**: Lists recent news articles.
-- **Sidebar (Lateral)**:
-  - **Interviews**: Displays a list of interviews.
-  - **Newsletter**: Allows users to subscribe to the newsletter.
+This project represents a fully functional news website with an intuitive and user-friendly interface. It aims to demonstrate my proficiency in front-end development and design skills using HTML and CSS.
 
-## Footer
+## File Structure
 
-- Displays the copyright information.
+The project directory is structured as follows:
 
-### Usage
+- `index.html`: The landing page of the news site.
+- `brazil.html`, `world.html`, `business.html`, `healthy.html`, `entertainment.html`, `opinion.html`, `sports.html`: Pages dedicated to various news sections.
+- `css/style.css`: Cascading Style Sheets responsible for the site's layout and visual appeal.
+- `images` folder: Contains all images used throughout the website.
 
-Open the different HTML files to explore each section of the news portal:
-- [Home](index.html)
-- [Brazil News](brasil.html)
-- [International News](internacional.html)
-- [Economy News](economia.html)
-- [Health News](saude.html)
-- [Science News](ciencia.html)
-- [Photos](fotos.html)
+## Usage Instructions
+
+To view the site locally:
+
+1. Clone this repository: `git clone https://github.com/DanielSantDev/Web-Projects.git`
+2. Open any HTML file using a web browser.
+3. Navigate through different news sections using the navigation bar links.
+
+## 🌟 Features
+
+### Key Features of the Project
+
+- Responsive design ensuring optimal viewing across various devices and screen sizes.
+- Engaging and informative content structure for a seamless user experience.
+- Intuitive navigation with a clear categorization of news sections.
+- Stylish and visually appealing layout enhancing readability and aesthetics.
+- Utilization of various CSS techniques and best practices.
+
+## Technologies Used
+
+- **HTML5**: Used for structuring the web pages.
+- **CSS3**: Employed for styling and enhancing the overall look and feel of the site.
+- **Git**: Version control system for tracking changes and collaborating.
+- **GitHub**: Hosting the project repository.
+
+## 🚀 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/DanielSantDev/Web-Projects/issues) if you'd like to contribute. 
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+---
+
+© 2024 Online News Network | This project is for demonstration and portfolio purposes only.
+
