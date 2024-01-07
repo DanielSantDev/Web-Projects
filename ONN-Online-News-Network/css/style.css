@@ -17,8 +17,8 @@ body{
 #top {
 	height: 150px;
 	background: url(../images/logo2.png) no-repeat right top;
-	padding-top: 70px;
-	padding-left: 120px;
+	padding-top: 60px;
+	padding-left: 10px;
 }
 
 .logo {
@@ -73,7 +73,7 @@ ul {
 }
 
 body.home      #nav a#home,
-body.businesss #nav a#businesss,
+body.business  #nav a#business,
 body.brazil    #nav a#brazil, 
 body.world     #nav a#world,
 body.sports    #nav a#sports,
@@ -188,10 +188,6 @@ h3 {
 	display: inline;
 	font-size: 0.8em;
 	padding: 3px;
-}
-
-.opinion h3 {
-	background: #dd0a1b;
 }
 
 /* news setup*/
