@@ -27,7 +27,7 @@ body {
 
 #logo-area {
 	position: absolute;
-	background: url(../images/main-image1.png) no-repeat;
+	background: url(../images/main-image.png) no-repeat;
 	width: 100%;
 	height: 250px;
 	top: 0;
@@ -40,7 +40,7 @@ body {
 	top: 15px;
 	left: 15px;
 	z-index: 3;
-	background: url(../imagens/logo.png) no-repeat;
+	background: url(../images/logo.png) no-repeat;
 	width: 151px;
 	height: 66px;
 	text-indent: -9000px;
@@ -68,7 +68,7 @@ body {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	font-size: 0.7em;
-	color: #8b8448;
+	color: #2d70c2;
 }
 
 #local-menu .local {
@@ -125,14 +125,14 @@ ul#navegation a:hover {
 #main-area {
 	float: left;
 	width: 50%;
-	background: url(../image) top left repeat-x;
+	background: url(../images/background3.png) top left repeat-x;
 	padding: 15px 0px;
 }
 
 #right-side {
 	float: right;
 	width: 50%;
-	background: url(../images/) top left repeat-x;
+	background: url(../images/background2.png) top left repeat-x;
 	padding: 20px 0px;
 }
 
@@ -146,6 +146,7 @@ ul#navegation a:hover {
 	padding: 16px;
 	background: #fff url(../images/background-footer.png) repeat-x top;
 	color: #2d70c2;
+	text-align: center;
 }
 
 
@@ -191,39 +192,3 @@ p {
 	background: #d5e8ff;
 	cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
