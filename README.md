@@ -18,6 +18,12 @@ This repository serves as a portfolio of my web development projects. Each proje
 
 Here are some of the projects available in this repository:
 
+### ✅ [Rock Stream](RockStream)
+
+### ✅ [Wealth Wave](WealthWave)
+
+### ✅ [Virtual Vitality](Virtual-Vitality)
+
 ### ✅ [Heroic Clash: Batman vs Superman](Heroic-Clash-Batman-vs-Superman)
 The HTML and CSS code in this repository creates a visually appealing and responsive webpage showcasing the clash between Batman and Superman. The content includes information about the characters, their backgrounds, and the evolution of their relationship.
 
