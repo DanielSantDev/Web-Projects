@@ -19,10 +19,13 @@ This repository serves as a portfolio of my web development projects. Each proje
 Here are some of the projects available in this repository:
 
 ### ✅ [Rock Stream](RockStream)
+Spotify Clone is a platform that offers music for everyone, providing a seamless and enjoyable music streaming experience. Discover new releases, explore playlists, and enjoy a vast collection of songs across various genres.
 
 ### ✅ [Wealth Wave](WealthWave)
+WealthWave is an online tool used by more than 1 million people, providing a simplified way to manage personal finances. Whether you want to track your expenses, save money, or receive alerts for bills, WealthWave has you covered.
 
 ### ✅ [Virtual Vitality](Virtual-Vitality)
+Virtual Vitality is your premier online fitness destination where we bring the gym experience to you. We are not just a gym; we are a virtual fitness hub designed to enhance your well-being through accessible and dynamic fitness solutions.
 
 ### ✅ [Heroic Clash: Batman vs Superman](Heroic-Clash-Batman-vs-Superman)
 The HTML and CSS code in this repository creates a visually appealing and responsive webpage showcasing the clash between Batman and Superman. The content includes information about the characters, their backgrounds, and the evolution of their relationship.
